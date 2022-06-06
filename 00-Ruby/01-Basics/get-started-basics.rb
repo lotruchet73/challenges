@@ -54,3 +54,5 @@ puts (1...10).to_a
 
 a = "agathe et léo"
 puts a.split(" ")
+
+# I LOVE U
