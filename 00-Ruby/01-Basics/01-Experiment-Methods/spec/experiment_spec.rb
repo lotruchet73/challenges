@@ -1,5 +1,5 @@
 require "rspec"
-require_relative "../experiment"
+require_relative "../lib/experiment"
 
 describe "#get_rid_of_surrounding_whitespaces" do
 
